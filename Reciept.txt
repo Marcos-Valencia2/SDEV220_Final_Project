@@ -1,0 +1,8 @@
+Here is the customer's information: 
+Name: Marcos
+Phone Number: 812-777-7777
+[0 Chocolate muffin, 0 Chocolate muffin, 2 Blueberry Muffin ]
+Number Of Items Ordered: 3
+total price befor tax: $17.97
+Tax at %8: $1.4376
+Total After Tax: $16.5324
